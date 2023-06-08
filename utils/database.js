@@ -1,4 +1,3 @@
-import { env } from "@next.config";
 import mongoose from "mongoose";
 
 let isConnected = false; // track the connection
