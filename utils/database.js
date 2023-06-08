@@ -1,3 +1,4 @@
+import { env } from "@next.config";
 import mongoose from "mongoose";
 
 let isConnected = false; // track the connection
@@ -11,14 +12,11 @@ export const connectToDB = async () => {
   }
 
   try {
-    await mongoose.connect(
-      "mongodb+srv://shebblloll:01159292488ams@cluster0.muepe44.mongodb.net/?retryWrites=true&w=majority",
-      {
-        dbName: "share_prompt",
-        useNewUrlParser: true,
-        useUnifiedTopology: true,
-      }
-    );
+    await mongoose.connect(process.env.MONGODB_URL, {
+      dbName: "share_prompt",
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    });
 
     isConnected = true;
 
