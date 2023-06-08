@@ -1,5 +1,13 @@
 # Visit it -> https://promptopia-project-wheat.vercel.app/
 
+## some screenshots
+![alt text](https://github.com/shebll/PromptopiaProject/blob/master/public/assets/images/promptobia1.png)
+![alt text](https://github.com/shebll/PromptopiaProject/blob/master/public/assets/images/Profile.png)
+![alt text](https://github.com/shebll/PromptopiaProject/blob/master/public/assets/images/edit.png)
+![alt text](https://github.com/shebll/PromptopiaProject/blob/master/public/assets/images/createPost.png)
+![alt text](https://github.com/shebll/PromptopiaProject/blob/master/public/assets/images/ProfileMobile.png)
+![alt text](https://github.com/shebll/PromptopiaProject/blob/master/public/assets/images/createPostMobile.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
