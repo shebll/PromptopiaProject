@@ -1,4 +1,4 @@
-# Visit it -> https://promptopia-project-wheat.vercel.app/
+# Visit it -> https://promptopia-project-iota.vercel.app/
 
 ## some screenshots
 ![alt text](https://github.com/shebll/PromptopiaProject/blob/master/public/assets/images/promptobia1.png)
